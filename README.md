@@ -1,13 +1,14 @@
 # 👨🏾‍💻Eric Valentim
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-End | Java & Spring`**
 
 Olá! É um prazer ter você por aqui.
 
 Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio integrado ao curso técnico em Informática pela ETEC e, atualmente, curso Ciência da Computação na USJT.
-Sou apaixonado por tecnologia e tenho grande interesse em desenvolver soluções que facilitem o dia a dia das pessoas, seja por meio da criação de sistemas ou do suporte técnico.
 
-Estou em constante evolução profissional, buscando aprimorar minhas habilidades e crescer cada vez mais no mercado de tecnologia.
+💻 Sou apaixonado por tecnologia e tenho grande interesse em desenvolver soluções que facilitem o dia a dia das pessoas, seja por meio da criação de sistemas ou do suporte técnico.
+
+🚀 Estou em constante evolução profissional, buscando aprimorar minhas habilidades e crescer cada vez mais no mercado de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/eric-valentim-6598a2204/">
@@ -35,8 +36,15 @@ Estou em constante evolução profissional, buscando aprimorar minhas habilidade
 </p>
 
 ---
+### 📌 Atualmente
+- 🎯 Focado em desenvolvimento Back-End com Java e Spring
+- 📚 Estudando arquitetura de APIs e boas práticas
 
-### 🤖 Linguagens e Conhecimentos Tech
+### 🎯 Objetivo
+Atuar como desenvolvedor Back-End, criando soluções escaláveis e eficientes.
+---
+
+### 🛠️ Tecnologias e Ferramentas
 
 <img 
     align="left" 
@@ -93,7 +101,7 @@ Estou em constante evolução profissional, buscando aprimorar minhas habilidade
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-    />      
+/>      
 <img 
     align="left" 
     alt="GitHub"
@@ -110,8 +118,6 @@ Estou em constante evolução profissional, buscando aprimorar minhas habilidade
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
 />
-          
-
 <br/>
 <br/>
 
