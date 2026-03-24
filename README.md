@@ -34,8 +34,8 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de São Paulo. Conclu�
         />
     </a>
 </p>
-
 ---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <img 
@@ -112,6 +112,12 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de São Paulo. Conclu�
 />      
 <br/>
 <br/>
+
+---
+### 🚀 Projetos em Destaque
+
+- 🔗 Bibliotequinha - O sistema permitirá o gerenciamento básico de uma biblioteca, incluindo funcionalidades para adicionar livros, registrar usuários e realizar empréstimos de livros. O foco será aplicar os pilares da POO: encapsulamento, herança, polimorfismo e abstração.
+- 🔗 Sistema de Gestão de Chamados (Help Desk) -  (Em desenvolvimento)
 
 ---
 ### 📌 Atualmente
