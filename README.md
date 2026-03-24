@@ -11,9 +11,9 @@ Estou em constante evolução profissional, buscando aprimorar minhas habilidade
 <p align="left">
     <a href="https://www.linkedin.com/in/eric-valentim-6598a2204/">
         <img 
-            alt="youtube subscribers" 
+            alt="Meu Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg")"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
         />
     </a>
     <a href="https://github.com/AlertEric?tab=repositories&sort=stargazers">
