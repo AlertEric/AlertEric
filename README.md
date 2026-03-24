@@ -86,14 +86,6 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de SÃ£o Paulo. ConcluÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
-<img
-    align="left" 
-    alt="amazonwebservices"
-    title="amazonwebservices" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>      
 <img 
     align="left" 
     alt="GitHub"
@@ -110,6 +102,14 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de SÃ£o Paulo. ConcluÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
 />
+<img
+    align="left" 
+    alt="amazonwebservices"
+    title="amazonwebservices" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>      
 <br/>
 <br/>
 
