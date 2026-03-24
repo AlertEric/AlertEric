@@ -10,14 +10,6 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de São Paulo. Conclu�
 
 🚀 Estou em constante evolução profissional, buscando aprimorar minhas habilidades e crescer cada vez mais no mercado de tecnologia.
 
----
-### 📌 Atualmente
-- 🎯 Focado em desenvolvimento Back-End com Java e Spring
-- 📚 Estudando arquitetura de APIs e boas práticas
-
-### 🎯 Objetivo
-- 📑 Atuar como desenvolvedor Back-End, criando soluções escaláveis e eficientes.
-
 <p align="left">
     <a href="https://www.linkedin.com/in/eric-valentim-6598a2204/">
         <img 
@@ -44,8 +36,6 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de São Paulo. Conclu�
 </p>
 
 ---
-
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <img 
@@ -122,6 +112,16 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de São Paulo. Conclu�
 />
 <br/>
 <br/>
+
+---
+### 📌 Atualmente
+- 🎯 Focado em desenvolvimento Back-End com Java e Spring
+- 📚 Estudando arquitetura de APIs e boas práticas
+
+### 🎯 Objetivo
+- 📑 Atuar como desenvolvedor Back-End, criando soluções escaláveis e eficientes.
+
+---
 
 ### 📊 Estatísticas
 
