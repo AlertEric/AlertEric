@@ -11,6 +11,8 @@ Estou em constante evolução profissional, buscando aprimorar minhas habilidade
 <p align="left">
     <a href="https://www.linkedin.com/in/eric-valentim-6598a2204/">
         <img 
+            width="30px" 
+            style="padding-right: 10px;" 
             alt="Meu Linkedin" 
             title="Linkedin" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
