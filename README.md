@@ -13,7 +13,7 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de S√£o Paulo. Conclu√
 <p align="left">
     <a href="https://www.linkedin.com/in/eric-valentim-6598a2204/">
         <img 
-            width="50px" 
+            width="30px" 
             alt="Meu Linkedin" 
             title="Linkedin" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
