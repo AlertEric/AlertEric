@@ -1,6 +1,7 @@
 # 👨🏾‍💻Eric Valentim
 
 **`Desenvolvedor Back-End`**
+
 Olá! É um prazer ter você por aqui.
 
 Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio integrado ao curso técnico em Informática pela ETEC e, atualmente, curso Ciência da Computação na USJT.
@@ -12,7 +13,7 @@ Estou em constante evolução profissional, buscando aprimorar minhas habilidade
     <a href="https://www.linkedin.com/in/eric-valentim-6598a2204/">
         <img 
             width="30px" 
-            style="padding-right: 10px;" 
+            style="padding-right: 20px;" 
             alt="Meu Linkedin" 
             title="Linkedin" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
@@ -86,6 +87,13 @@ Estou em constante evolução profissional, buscando aprimorar minhas habilidade
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
+<img
+    align="left" 
+    alt="amazonwebservices"
+    title="amazonwebservices" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+    />      
 <img 
     align="left" 
     alt="GitHub"
@@ -94,7 +102,14 @@ Estou em constante evolução profissional, buscando aprimorar minhas habilidade
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
 />
-
+<img    
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+/>
+          
 
 <br/>
 <br/>
