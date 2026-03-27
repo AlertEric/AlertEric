@@ -136,7 +136,7 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de SÃ£o Paulo. ConcluÃ
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 50px;" 
+    style="padding-right: 75px;" 
     src="https://github-readme-stats.vercel.app/api?username=AlertEric&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -144,7 +144,7 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de SÃ£o Paulo. ConcluÃ
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 50px;" 
+      style="padding-right: 75px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlertEric&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
