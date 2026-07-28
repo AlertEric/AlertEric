@@ -118,7 +118,7 @@ Me chamo Eric Valentim Pinto, tenho 25 anos e sou natural de São Paulo. Conclu�
 
 - 🔗 Bibliotequinha - O sistema permitirá o gerenciamento básico de uma biblioteca, incluindo funcionalidades para adicionar livros, registrar usuários e realizar empréstimos de livros. O foco será aplicar os pilares da POO: encapsulamento, herança, polimorfismo e abstração.(Refatorando)
 - 🔗 Sistema de Gestão de Chamados (Help Desk) -  (Em desenvolvimento)
-- 🔗 Sistema Mercadinho (Leitura e escaneamento de Produtos)- (Estudando para desenvolve)
+- 🔗 Sistema Mercadinho (Cadastramento, Leitura, escaneamento e Pagamento de Produtos )- (Estudando para desenvolve)
 
 ---
 ### 📌 Atualmente
